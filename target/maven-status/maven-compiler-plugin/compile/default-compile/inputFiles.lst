@@ -1,0 +1,13 @@
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/security/WebSecurityConfig.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/controller/UserController.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/security/JwtAuthenticationEntryPoint.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/GuiabolsoApplication.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/security/JwtThrowsException.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/security/JwtRequestFilter.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/repository/UserRepository.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/config/SwaggerConfig.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/security/JwtResponse.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/component/DecodeBase64.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/security/JwtTokenUtil.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/service/UserService.java
+/home/giovanna/Documentos/squad3/squad-3-ad-java-guiabolso-1/src/main/java/com/errorscentral/guiabolso/entity/User.java
