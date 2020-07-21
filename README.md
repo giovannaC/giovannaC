@@ -1,6 +1,6 @@
 Esse projeto foi realizado durante o curso de Java da Codenation (Trybe) 
 
-Central de Erros
+##Central de Erros##
 
 Em projetos modernos é cada vez mais comum o uso de arquiteturas baseadas em serviços ou microsserviços. <br/>
 Nestes ambientes complexos, erros podem surgir em diferentes camadas da aplicação (backend, frontend, mobile, desktop) 
